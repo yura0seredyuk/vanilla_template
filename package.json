@@ -1,0 +1,22 @@
+{
+  "name": "vanilla_template",
+  "version": "1.0.0",
+  "description": "Template for vanilla (no framework)",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yura0seredyuk/vanilla_template.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "yura0seredyuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yura0seredyuk/vanilla_template/issues"
+  },
+  "homepage": "https://github.com/yura0seredyuk/vanilla_template#readme"
+}
